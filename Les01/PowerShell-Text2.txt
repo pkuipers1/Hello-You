@@ -1,0 +1,25 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Patricia> cd Documents
+PS C:\Users\Patricia\Documents> cd Achievements
+PS C:\Users\Patricia\Documents\Achievements> cd f1m1
+PS C:\Users\Patricia\Documents\Achievements\f1m1> cd pvaardig
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> cd Les02
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02> attrib geheim +h
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02> ls
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02> attrib geheim -h
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02> ls
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   3:25 PM                geheim
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig\Les02>

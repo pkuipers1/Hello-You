@@ -1,0 +1,127 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Patricia> cd Documents
+PS C:\Users\Patricia\Documents> cd Achievements
+PS C:\Users\Patricia\Documents\Achievements> md f1m1
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:40 PM                f1m1
+
+
+PS C:\Users\Patricia\Documents\Achievements> ls
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:40 PM                f1m1
+d-----          9/7/2020  10:01 AM                Nederlands
+d-----          9/3/2020   5:07 PM                Python
+
+
+PS C:\Users\Patricia\Documents\Achievements> cd f1m1
+PS C:\Users\Patricia\Documents\Achievements\f1m1> md pvaardig
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                pvaardig
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1> cd pvaardig
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les01
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les01
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les02
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les02
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les03
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les03
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les04
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les04
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les05
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les05
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> md Les06
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les06
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig> ls
+
+
+    Directory: C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/7/2020   2:41 PM                Les01
+d-----          9/7/2020   2:41 PM                Les02
+d-----          9/7/2020   2:41 PM                Les03
+d-----          9/7/2020   2:41 PM                Les04
+d-----          9/7/2020   2:41 PM                Les05
+d-----          9/7/2020   2:41 PM                Les06
+
+
+PS C:\Users\Patricia\Documents\Achievements\f1m1\pvaardig>
