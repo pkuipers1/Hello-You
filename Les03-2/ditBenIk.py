@@ -51,9 +51,9 @@ def mijnprogramma():
 
         antwVraag3 = input()
         if antwVraag3 == "b" or antwVraag3 == "c" or antwVraag3 == "B" or antwVraag3 == "C":
-            print('Het juiste antwoord was A, ik heb ruim 2700 uur in Ark en speel het nog steeds.\n')
+            print('Het juiste antwoord was A, Ark is met 2700+ uur mijn meest gespeelde game.\n')
         elif antwVraag3 == "a" or antwVraag3 == "A":
-            print('Correct! Ik heb ruim 2700 uur in Ark en speel het nog steeds.\n')
+            print('Correct! Ark is met 2700+ uur mijn meest gespeelde game.\n')
         else:
             print('Invoer ongeldig! Vul A, B of C in.')
             vraag3Juist()
