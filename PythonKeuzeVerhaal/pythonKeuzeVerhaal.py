@@ -477,9 +477,9 @@ def pythonKeuzeVerhaal():
         interfaceRows[6] = "           |   |  There's one job offer that stands out, |    |"
         interfaceRows[7] = "           |   |  paying well with €55K/year. You are    |    |"
         interfaceRows[8] = "           |   |  qualified due to your high education!  |    |"
-        interfaceRows[10] = "           |   |  A. Office Job (€10,000/year)           |    |"
-        interfaceRows[11] = "           |   |  B. Notary Job (€25,000/year)           |    |"
-        interfaceRows[12] = "           |   |  C. Assistance Nurse Job (€55,000/year) |    |"
+        interfaceRows[10] = "           |   |  A. Office Job (€10.000/year)           |    |"
+        interfaceRows[11] = "           |   |  B. Notary Job (€25.000/year)           |    |"
+        interfaceRows[12] = "           |   |  C. Assistance Nurse Job (€55.000/year) |    |"
         interfaceRows[14] = "           |   |  Type A/B/C to continue.                |    |"
 
         for Row in interfaceRows:
@@ -539,9 +539,9 @@ def pythonKeuzeVerhaal():
         interfaceRows[6] = "           |   |  There's one job offer that stands out, |    |"
         interfaceRows[7] = "           |   |  paying well with €55K/year, but do you |    |"
         interfaceRows[8] = "           |   |  have what it takes?                    |    |"
-        interfaceRows[10] = "           |   |  A. Office Job (€10,000/year)           |    |"
-        interfaceRows[11] = "           |   |  B. Notary Job (€25,000/year)           |    |"
-        interfaceRows[12] = "           |   |  C. Assistance Nurse Job (€55,000/year) |    |"
+        interfaceRows[10] = "           |   |  A. Office Job (€10.000/year)           |    |"
+        interfaceRows[11] = "           |   |  B. Notary Job (€25.000/year)           |    |"
+        interfaceRows[12] = "           |   |  C. Assistance Nurse Job (€55.000/year) |    |"
         interfaceRows[14] = "           |   |  Type A/B/C to continue.                |    |"
 
         for Row in interfaceRows:
@@ -1318,7 +1318,7 @@ def pythonKeuzeVerhaal():
 
         interfaceRows[4] = "           |   |  Welcome to my Game! Here, you will go  |    |"
         interfaceRows[5] = "           |   |  on a journey, make choices and follow  |    |"
-        interfaceRows[6] = "           |   |  a story. This game based on a true     |    |"
+        interfaceRows[6] = "           |   |  a story. This game is based on a true  |    |"
         interfaceRows[7] = "           |   |  series of events.                      |    |"
         interfaceRows[9] = "           |   |  Remember, your choices will decide the |    |"
         interfaceRows[10] = "           |   |  final outcome of the story!            |    |"
