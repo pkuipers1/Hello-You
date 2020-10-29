@@ -95,12 +95,12 @@ def pythonKeuzeVerhaal():
 
     def ending3():
         os.system("cls")
-        print("You are a housewife, have a husband in the Netherlands and financially an okay situation,\n albeit not enough to afford things like a house. Still, Congratz!")
+        print("You are a housewife, have a husband in the Netherlands and financially an\n okay situation, albeit not enough to afford things like a\n house. Still, Congratz!")
         wannaRestart()
 
     def ending2():
         os.system("cls")
-        print("Congratz, you've got a modern house and a job in the Netherlands. Pets aren't allowed here sadly, but perhaps you wanna give\nit another try. This is the end of your journey. Or perhaps a new beginning?")
+        print("Congratz, you've got a modern house and a job in the Netherlands. Pets aren't\n allowed here sadly, but perhaps you wanna give it another try.\n This is the end of your journey. Or perhaps a new beginning?")
         wannaRestart()
 
     def ending1():
